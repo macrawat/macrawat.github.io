@@ -1,0 +1,88 @@
+---
+layout: post
+title: "MobileComputing"
+date: 2013-06-05 18:05
+comments: true
+categories: 
+---
+
+Mobile computing is human–computer interaction by which a computer is expected to be transported during normal usage. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad-hoc and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
+
+			Mobile computing is "taking a computer and all necessary files and software out into the field."
+"Mobile computing: being able to use a computing device even when being mobile and therefore changing location. Portability is one aspect of mobile computing."
+"Mobile computing is the ability to use computing capability without a pre-defined location and/or connection to a network to publish and/or subscribe to information." Uwe Vieille, ACM.org/
+
+Devices
+
+Many types of mobile computers have been introduced since the 1990s including the:
+Personal digital assistant/enterprise digital assistant
+Smartphone
+Tablet computer
+Ultra-Mobile PC
+Wearable computer
+
+
+Limitations
+
+Range & Bandwidth: Mobile Internet access is generally slower than direct cable connections, using technologies such as GPRS and EDGE, and more recently HSDPA and HSUPA 3G and 4G networks. These networks are usually available within range of commercial cell phone towers. Higher speed wireless LANs are inexpensive but have very limited range.
+Security standards: When working mobile, one is dependent on public networks, requiring careful use of VPN. Security is a major concern while concerning the mobile computing standards on the fleet. One can easily attack the VPN through a huge number of networks interconnected through the line.
+Power consumption: When a power outlet or portable generator is not available, mobile computers must rely entirely on battery power. Combined with the compact size of many mobile devices, this often means unusually expensive batteries must be used to obtain the necessary battery life.
+Transmission interferences: Weather, terrain, and the range from the nearest signal point can all interfere with signal reception. Reception in tunnels, some buildings, and rural areas is often poor.
+Potential health hazards: People who use mobile devices while driving are often distracted from driving and are thus assumed more likely to be involved in traffic accidents.[3] (While this may seem obvious, there is considerable discussion about whether banning mobile device use while driving reduces accidents or not.[4][5]) Cell phones may interfere with sensitive medical devices. Questions concerning mobile phone radiation and health have been raised.
+Human interface with device: Screens and keyboards tend to be small, which may make them hard to use. Alternate input methods such as speech or handwriting recognition require training.
+
+
+In-vehicle computing and fleet computing 
+
+Many commercial and government field forces deploy a ruggedized portable computer with their fleet of vehicles. This requires the units to be anchored to the vehicle for driver safety, device security, and ergonomics. Rugged computers are rated for severe vibration associated with large service vehicles and off-road driving and the harsh environmental conditions of constant professional use such as in emergency medical services, fire, and public safety.
+
+
+The Compaq Portable - Circa 1982 pre-laptop
+Other elements affecting function in vehicle:
+Operating temperature: A vehicle cabin can often experience temperature swings from -20F to +140F. Computers typically must be able to withstand these temperatures while operating. Typical fan-based cooling has stated limits of 95F-100F of ambient temperature, and temperatures below freezing require localized heaters to bring components up to operating temperature (based on independent studies by the SRI Group and by Panasonic R&D).
+Vibration can decrease the life expectancy of computer components, notably rotational storage such as HDDs.
+Visibility of standard screens becomes an issue in bright sunlight.
+Touchscreen users easily interact with the units in the field without removing gloves.
+High-temperature battery settings: Lithium ion batteries are sensitive to high temperature conditions for charging. A computer designed for the mobile environment should be designed with a high-temperature charging function that limits the charge to 85% or less of capacity.
+External antenna connections go through the typical metal cabins of vehicles which would block wireless reception, and take advantage of much more capable external communication and navigation equipment.
+Several specialized manufacturers such as First Mobile Technologies, National Products Inc (Ram Mounts), Gamber Johnson and LedCo build mounts for vehicle mounting of computer equipment for a wide range of vehicles. The mounts are built to withstand the harsh conditions and maintain ergonomics.
+Specialized installation companies design the mount design, assembling the parts, and installing them in a safe and consistent manner away from airbags, vehicle HVAC controls, and driver controls. Frequently installations will include a WWAN modem, power conditioning equipment, transceiver antennae mounted external to the vehicle, and WWAN/WLAN/GPS/etc.
+
+
+
+Security issues involved in mobile computing 
+
+Main article: Mobile security
+Mobile security or mobile phone security has become increasingly important in mobile computing. It is of particular concern as it relates to the security of personal information now stored on the smartphone.
+More and more users and businesses use smartphones as communication tools but also as a means of planning and organizing their work and private life. Within companies, these technologies are causing profound changes in the organization of information systems and therefore they have become the source of new risks. Indeed, smartphones collect and compile an increasing amount of sensitive information to which access must be controlled to protect the privacy of the user and the intellectual property of the company.
+All smartphones, as computers, are preferred targets of attacks. These attacks exploit weaknesses related to smartphones that can come from means of communication like SMS, MMS, wifi networks, and GSM. There are also attacks that exploit software vulnerabilities from both the web browser and operating system. Finally, there are forms of malicious software that rely on the weak knowledge of average users.
+Different security counter-measures are being developed and applied to smartphones, from security in different layers of software to the dissemination of information to end users. There are good practices to be observed at all levels, from design to use, through the development of operating systems, software layers, and downloadable apps.
+
+
+
+Portable computing devices
+
+Main articles: Mobile device and Portable computer
+
+This section may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this section if you can. (February 2009)
+Several categories of portable computing devices can run on batteries but are not usually classified as laptops: portable computers, keyboardless tablet PCs, Internet tablets, PDAs, ultra mobile PCs (UMPCs) and smartphones.
+A portable computer is a general-purpose computer that can be easily moved from place to place, but cannot be used while in transit, usually because it requires some "setting-up" and an AC power source. The most famous example is the Osborne 1. Portable computers are also called a "transportable" or a "luggable" PC.
+A tablet computer that lacks a keyboard (also known as a non-convertible tablet) is shaped like a slate or a paper notebook. Instead a physical keyboard it has a touchscreen with some combination of virtual keyboard, stylus and/or handwriting recognition software. Tablets may not be best suited for applications requiring a physical keyboard for typing, but are otherwise capable of carrying out most of the tasks of an ordinary laptop.
+A personal digital assistant (PDA) is a small, usually pocket-sized, computer with limited functionality. It is intended to supplement and to synchronize with a desktop computer, giving access to contacts, address book, notes, e-mail and other features.
+
+
+A Palm TX PDA
+A PDA with a web browser is an Internet tablet, an Internet appliance in tablet form. It does not have as much computing power as a full tablet computer and its applications suite is limited, and it can not replace a general purpose computer. Internet tablets typically feature an MP3 and video player, a web browser, a chat application and a picture viewer.
+An ultra mobile PC is a full-featured, PDA-sized computer running a general-purpose operating system.
+A smartphone has a wide range of features and installable applications.
+A carputer is installed in an automobile. It operates as a wireless computer, sound system, GPS, and DVD player. It also contains word processing software and is bluetooth compatible.[6]
+A Fly Fusion Pentop Computer is a computing device the size and shape of a pen. It functions as a writing utensil, MP3 player, language translator, digital storage device, and calculator.[7]
+Boundaries that separate these categories are blurry at times. For example, the OQO UMPC is also a PDA-sized tablet PC; the Apple eMate had the clamshell form factor of a laptop, but ran PDA software. The HP Omnibook line of laptops included some devices small more enough to be called ultra mobile PCs. The hardware of the Nokia 770 internet tablet is essentially the same as that of a PDA such as the Zaurus 6000; the only reason it's not called a PDA is that it does not have PIM software. On the other hand, both the 770 and the Zaurus can run some desktop Linux software, usually with modifications.
+
+
+
+Mobile data communication
+
+Wireless data connections used in mobile computing take three general forms.[8] Cellular data service uses technologies such as GSM, CDMA or GPRS, and more recently 3G networks such as W-CDMA, EDGE or CDMA2000.[9][10] These networks are usually available within range of commercial cell towers. Wi-Fi connections offer higher performance,[11] may be either on a private business network or accessed through public hotspots, and have a typical range of 100 feet indoors and up to 1000 feet outdoors.[12] Satellite Internet access covers areas where cellular and Wi-Fi are not available[13] and may be set up anywhere the user has a line of sight to the satellite's location,[14] which for satellites in geostationary orbit means having an unobstructed view of the southern sky.[8] Some enterprise deployments combine networks from multiple cellular networks or use a mix of cellular, Wi-Fi and satellite.[15] When using a mix of networks, a mobile virtual private network (mobile VPN) not only handles the security concerns, but also performs the multiple network logins automatically and keeps the application connections alive to prevent crashes or data loss during network transitions or coverage loss.[16][17]
+
+
