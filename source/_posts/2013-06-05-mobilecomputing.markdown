@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobileComputing"
+title: "MoBiLeCoMpUtInG"
 date: 2013-06-05 18:05
 comments: true
 categories: 
@@ -13,7 +13,8 @@ Mobile computing is human–computer interaction by which a computer is expected
 "Mobile computing is the ability to use computing capability without a pre-defined location and/or connection to a network to publish and/or subscribe to information." Uwe Vieille, ACM.org/
 
 Devices
-{% img http://en.wikipedia.org/wiki/File:Telxon_PTC-710_with_MP_830-42.jpg right%}
+{% img http://en.wikipedia.org/wiki/File:Telxon_PTC-710_with_MP_830-42.jpg %}
+
 Many types of mobile computers have been introduced since the 1990s including the:
 Personal digital assistant/enterprise digital assistant
 Smartphone
