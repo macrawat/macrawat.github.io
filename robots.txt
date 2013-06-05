@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://macrawat.github.io/sitemap.xml 
