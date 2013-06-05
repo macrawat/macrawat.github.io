@@ -5,7 +5,7 @@ date: 2013-06-05 18:05
 comments: true
 categories: 
 ---
-
+{% img http://techvario.com/wp-content/uploads/2013/02/MobileComputing.jpg %}
 Mobile computing is human–computer interaction by which a computer is expected to be transported during normal usage. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad-hoc and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
 
 			Mobile computing is "taking a computer and all necessary files and software out into the field."
@@ -13,7 +13,7 @@ Mobile computing is human–computer interaction by which a computer is expected
 "Mobile computing is the ability to use computing capability without a pre-defined location and/or connection to a network to publish and/or subscribe to information." Uwe Vieille, ACM.org/
 
 Devices
-
+{% img http://en.wikipedia.org/wiki/File:Telxon_PTC-710_with_MP_830-42.jpg right%}
 Many types of mobile computers have been introduced since the 1990s including the:
 Personal digital assistant/enterprise digital assistant
 Smartphone
@@ -84,5 +84,7 @@ Boundaries that separate these categories are blurry at times. For example, the 
 Mobile data communication
 
 Wireless data connections used in mobile computing take three general forms.[8] Cellular data service uses technologies such as GSM, CDMA or GPRS, and more recently 3G networks such as W-CDMA, EDGE or CDMA2000.[9][10] These networks are usually available within range of commercial cell towers. Wi-Fi connections offer higher performance,[11] may be either on a private business network or accessed through public hotspots, and have a typical range of 100 feet indoors and up to 1000 feet outdoors.[12] Satellite Internet access covers areas where cellular and Wi-Fi are not available[13] and may be set up anywhere the user has a line of sight to the satellite's location,[14] which for satellites in geostationary orbit means having an unobstructed view of the southern sky.[8] Some enterprise deployments combine networks from multiple cellular networks or use a mix of cellular, Wi-Fi and satellite.[15] When using a mix of networks, a mobile virtual private network (mobile VPN) not only handles the security concerns, but also performs the multiple network logins automatically and keeps the application connections alive to prevent crashes or data loss during network transitions or coverage loss.[16][17]
+
+{% vedio https://www.youtube.com/watch?v=LZuzO0FKd0A %}
 
 
